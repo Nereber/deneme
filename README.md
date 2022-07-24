@@ -1,6 +1,2 @@
-## Deneme
 
-# Alt Bilgi
-
-dgaljksfglkdjgfaflkfjfffgffffalk
 
