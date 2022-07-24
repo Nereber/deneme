@@ -1,4 +1,4 @@
-Patika.dev insertion Sort projesi
+Patika.dev insertion Sort projesi adwa
 # Patika.dev İnsertion Sort Bitirme Projesi
 
 İnsertion Sort Projesi
